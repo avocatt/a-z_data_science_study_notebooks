@@ -1,1 +1,1 @@
-# a-z_data_science_study_notebooks
+# ML with python study notebooks
